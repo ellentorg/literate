@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/literate",
-  "version": "7.24.220",
+  "version": "7.24.221",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -410,7 +410,7 @@
   "bugs": {
     "url": "https://github.com/ellentorg/literate/issues"
   },
-  "packageManager": "yarn@4.5.3",
+  "packageManager": "yarn@4.6.0",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
